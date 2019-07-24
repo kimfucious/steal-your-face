@@ -4,7 +4,7 @@ import logo from "./steal.png";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import { TimelineMax } from "gsap/all";
+import { TimelineMax } from "gsap";
 
 function App() {
   const appLogo = useRef(null);
